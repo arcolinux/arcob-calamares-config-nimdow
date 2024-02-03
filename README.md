@@ -1,0 +1,2 @@
+# ArcoLinuxB-Nimdow Calamares configuration
+
